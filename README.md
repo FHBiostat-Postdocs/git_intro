@@ -62,10 +62,18 @@ git pull
 
 The list of changes within a repo can be found on Github under the green Code button where you will see "# commits".
 
-# Other topics to maybe include
+# Other topics to maybe include in this repo
 
 * Multiple people editing a repo
 * .gitignore This is useful to instruct git to, by default, not save certain files ending in certain extensions.
+
+# Other repo ideas
+
+* Navigating linux/bash
+* installing R locally vs using R module
+* Running interactive R vs batch R
+* Submitting customized linux job
+* Scripting everything I just wrote
 
 # Some References
 
